@@ -1,2 +1,5 @@
 # hello-world
-Just my first repository
+
+Hi!
+
+Welcome to my repository. I'm a graduate student in HUST.
